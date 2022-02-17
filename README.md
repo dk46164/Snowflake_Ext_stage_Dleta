@@ -1,2 +1,2 @@
-# Snowflake_Ext_stage_Dleta
+# Snowflake_Ext_stage_Delta
 SQL DDL &amp; DML for inserting only delta chages from external_stage(s3) into Snowflake tables
